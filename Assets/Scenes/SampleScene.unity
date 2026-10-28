@@ -1390,9 +1390,9 @@ MonoBehaviour:
   m_EditorClassIdentifier: Assembly-CSharp::GameManager
   currentWave: 1
   totalWaves: 3
-  timeBetweenWaves: 2
-  startingAmmo: 10
-  ammoRefillPerWave: 5
+  timeBetweenWaves: 3
+  startingAmmo: 9
+  ammoRefillPerWave: 8
   scoreText: {fileID: 981354683}
   ammoText: {fileID: 252769410}
   waveText: {fileID: 568534598}
